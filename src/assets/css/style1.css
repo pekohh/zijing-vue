@@ -1,0 +1,20 @@
+body,p,form,input,button,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6{margin:0;padding:0;list-style:none;overflow-x:hidden}
+h1,h2,h3,h4,h5,h6{font-size:100%;}
+input,textarea{-webkit-user-select:text;-ms-user-select:text;user-select:text;-webkit-appearance:none;font-size:1em;line-height:1.5em;}
+
+.clear{clear:both;} 
+.fl{float:left;}
+.fr{float:right;}
+a{text-decoration: none}
+body{ min-width:340px;/*  max-width:640px; */color:#555; padding-bottom:8%;height:100%;font-family: "微软雅黑" arial;}
+ 
+
+
+ 
+
+ 
+
+
+
+
+
